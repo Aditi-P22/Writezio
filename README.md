@@ -1,4 +1,4 @@
-# ✍️ Writesio
+# ✍️ Writezio
 
 Writesio is a full-stack collaborative document editor designed for teams and individuals to write, edit, and collaborate in real-time — enriched with modern features like comments, threads, mentions, templates, and a highly customizable editor built on TipTap.
 
