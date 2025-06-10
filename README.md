@@ -38,15 +38,13 @@ Built with cutting-edge technologies, Writesio offers an elegant interface, seam
 
 ## ⚙️ Tech Stack
 
-### 🧠 Backend:
-- **Node.js**
-- **Express**
-- **MongoDB**
-- **Socket.IO**
-- **JWT Authentication**
+### 🧠 Backend & Real-time:
+- **Convex** – For real-time database and backend functionality
+- **Liveblocks** – For real-time collaboration features (presence, cursor tracking)
+- **Clerk Authentication** – For user authentication and management
 
 ### 🎨 Frontend:
-- **Next.js 15**
+- **Next.js**
 - **React**
 - **Tailwind CSS**
 - **Shadcn/UI**
